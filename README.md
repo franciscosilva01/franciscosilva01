@@ -5,6 +5,8 @@
 
 ![Franciscosilva  GitHub](https://github-readme-stats.vercel.app/api?username=francisco&show_icons=true&theme=drakula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco&layout=compact)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display_block"><br/>
@@ -14,3 +16,4 @@
 </div><br/>
 
 Estuando front-end a 2 anos, Apaixonad por tecnologia.!
+
